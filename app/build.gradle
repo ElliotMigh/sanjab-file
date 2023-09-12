@@ -6,6 +6,10 @@ plugins {
 android {
     compileSdk 33
 
+    buildFeatures {
+        viewBinding true
+    }
+
     defaultConfig {
         applicationId "com.example.sanjabfile"
         minSdk 22
