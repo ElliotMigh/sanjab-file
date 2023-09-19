@@ -17,8 +17,7 @@
         app:layout_constraintTop_toTopOf="parent"
         android:title="Sanjab File"
         android:titleTextColor="@color/white"
-        tools:ignore="HardcodedText"
-        tools:targetApi="m">
+        tools:ignore="HardcodedText">
 
     </Toolbar>
 
